@@ -1,0 +1,32 @@
+footer{
+	background: #34495e;
+	text-align:center;
+	padding-top:25px;
+	color:white;
+	font-size:15px;
+}
+#call-to-action-2 .btn-primary{
+	border-color: #FFFFFF;
+	background: transparent;
+	margin-top: 50px;
+	color: #fff;
+}
+.hero{
+	background-color: #2ba6cb;
+	color:white;
+	border-color: #FFFFFF;
+	color: #fff;
+	
+}
+.h{
+	text-align:center;
+	
+}
+.pp{
+	margin:30px;
+	font-size:18px;
+	font-family:sans-serif;
+}
+.pro{
+	background-color:#16a085;
+}

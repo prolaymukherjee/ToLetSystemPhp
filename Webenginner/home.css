@@ -1,0 +1,10 @@
+.logoback{
+	background-color:#ffffff;
+	margin:10px;
+	padding:5px;
+}
+.bord{
+	margin-top:10px;
+	width: 100%;
+    border: 1px solid gray;
+}
